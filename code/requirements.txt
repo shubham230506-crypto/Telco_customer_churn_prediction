@@ -1,0 +1,10 @@
+numpy
+pandas
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+shap
+joblib
